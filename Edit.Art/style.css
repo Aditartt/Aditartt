@@ -1,13 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Vazirmatn:wght@400;500;600;700;800&display=swap');
 
 :root {
-    --bg: #101010;
-    --panel: #181818;
-    --blue: #D4AF37;
-    --cyan: #E8CD75;
+    --bg: #0B1020;
+    --panel: #151C2C;
+    --blue: #00A6FF;
+    --cyan: #65D6FF;
     --text: #FFFFF;
-    --muted: #BDBDBD;
-    --border:#6F5A22;
+    --muted: #B8C4D9;
+    --border:#263650;
 }
 
 * {
