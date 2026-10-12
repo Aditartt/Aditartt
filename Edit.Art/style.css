@@ -544,3 +544,7 @@ footer p {
         transition-duration: 0.01ms !important;
     }
 }
+h1,h2,h3,p,a,span{
+    colot:#FFFFF;
+}
+<\style>
